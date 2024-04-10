@@ -1,0 +1,13 @@
+D:\Rohit_Workspace\InventorKaMaal\InventorAddIn1.dll
+D:\Rohit_Workspace\InventorKaMaal\InventorAddIn1.pdb
+D:\Rohit_Workspace\InventorKaMaal\.xml
+C:\Users\Rohit Chandajkar\AppData\Roaming\Autodesk\ApplicationPlugins\MyAddIn\InventorAddIn1.dll
+C:\Users\Rohit Chandajkar\AppData\Roaming\Autodesk\ApplicationPlugins\MyAddIn\InventorAddIn1.pdb
+C:\Users\Rohit Chandajkar\AppData\Roaming\Autodesk\ApplicationPlugins\MyAddIn\.xml
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\InventorAddIn1.vbproj.AssemblyReference.cache
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\InventorAddIn1.vbproj.ResolveComReference.cache
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\InventorAddIn1.vbproj.CoreCompileInputs.cache
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\Inventor.1DE015C0.Up2Date
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\InventorAddIn1.dll
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\.xml
+D:\Rohit_Workspace\C#_Programs\InventorAddIn1\InventorAddIn1\obj\Debug\InventorAddIn1.pdb

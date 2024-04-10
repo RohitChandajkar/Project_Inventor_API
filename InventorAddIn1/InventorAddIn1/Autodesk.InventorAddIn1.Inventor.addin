@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 28.0-->
+  <ClassId>{0f5faded-228e-4dd6-b520-32786da4dd3f}</ClassId>
+  <ClientId>{0f5faded-228e-4dd6-b520-32786da4dd3f}</ClientId>
+  <DisplayName>InventorAddIn1</DisplayName>
+  <Description>InventorAddIn1</Description>
+  <Assembly>InventorAddIn1.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>27..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
