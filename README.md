@@ -1,8 +1,4 @@
 # Project_Inventor_API
-Certainly! Below is a template for a `README.md` file for your project:
-
----
-
 # Autodesk Inventor VBA Project: Create Sketch with Rectangles
 
 ## Overview
@@ -44,7 +40,4 @@ To get started with this project:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
